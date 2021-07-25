@@ -1,6 +1,8 @@
 body{
     overflow-x: hidden;
     font-family: adobe-garamond-pro, serif;
+    margin: 0%;
+    padding: 0%;
    }
 
 
@@ -51,4 +53,24 @@ body{
 .banner-text p{
     font-weight: 400;
     font-size: 18px;    
+}
+
+.btn-sign{
+    width: 150px;
+    height: 40px;
+
+}
+
+.btn-custom {
+    width:200px;
+    /* padding:15px; */
+    height: 50px;
+}
+.scroll a fas{
+    height: 10px;
+    width: 10px;
+}
+.scroll a{
+    text-decoration: none;
+    color:inherit;
 }
