@@ -1,0 +1,54 @@
+body{
+    overflow-x: hidden;
+    font-family: adobe-garamond-pro, serif;
+   }
+
+
+   /* Adobe Garamond Pro Bold
+
+   font-family: adobe-garamond-pro, serif;
+   
+   font-weight: 700;
+   
+   font-style: normal;
+   
+   
+   Adobe Garamond Pro Bold Italic
+   
+   font-family: adobe-garamond-pro, serif;
+   
+   font-weight: 700;
+   
+   font-style: italic;
+   
+   
+   Adobe Garamond Pro Italic
+   
+   font-family: adobe-garamond-pro, serif;
+   
+   font-weight: 400;
+   
+   font-style: italic;
+   
+   
+   Adobe Garamond Pro Regular
+   
+   font-family: adobe-garamond-pro, serif;
+   
+   font-weight: 400;
+   
+   font-style: normal; */
+
+
+.banner-text h1{
+    font-size: 120px;
+    font-weight: 700;
+}
+.banner-text h2{
+    letter-spacing: 20px;
+    font-weight: 700;
+}
+.banner-text p{
+    font-weight: 400;
+    font-size: 18px;    
+}
